@@ -1,6 +1,6 @@
-#BlackJack Game using Object Oriented Peogramming in Python
+# BlackJack Game using Object Oriented Peogramming in Python
 
-###This repository contains the code to run a text based blackjack game using OOP in python.###
+### This repository contains the code to run a text based blackjack game using OOP in python.
 
 Module used - random
 
